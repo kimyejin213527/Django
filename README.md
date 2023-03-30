@@ -44,3 +44,7 @@
 2. urls
    1. shinee/ -> taemin/-> show_taemin()
    2. shinee/ -> on/-> show_on()
+3. templates/shinee/
+   1. ~~taemin.html~~
+   2. ~~on.html~~
+   3. 멤버.html
