@@ -37,4 +37,7 @@
    2. helloidol/settings.py
       1. '_shinee_', in INSTALLED_APPS
 6. helloidol/urls
-   1. shinee/-> shinee.urls
+   1. _shinee_/-> shinee.urls
+7. _shinee_/
+   1. show_taemin()
+   2. show_on()
