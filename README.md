@@ -41,3 +41,6 @@
 7. _shinee_/
    1. show_taemin()
    2. show_on()
+2. urls
+   1. shinee/ -> taemin/-> show_taemin()
+   2. shinee/ -> on/-> show_on()
