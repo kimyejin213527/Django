@@ -36,3 +36,5 @@
       1. python manage.py startapp _shinee_
    2. helloidol/settings.py
       1. '_shinee_', in INSTALLED_APPS
+6. helloidol/urls
+   1. shinee/-> shinee.urls

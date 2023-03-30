@@ -20,5 +20,6 @@ import playground.views
 
 urlpatterns = [
     path('playground/',include('playground.urls')), #playground/ -> playground.urls에서 처리
+    path('shinee/',include('shinee.urls')), #shinee/ -> shinee.urls에서 처리
     path('admin/', admin.site.urls),
 ]
